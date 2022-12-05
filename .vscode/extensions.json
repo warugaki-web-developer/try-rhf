@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ionutvmi.path-autocomplete",
+    "styled-components.vscode-styled-components",
+    "stylelint.vscode-stylelint",
+    "zixuanchen.vitest-explorer"
+  ]
+}
